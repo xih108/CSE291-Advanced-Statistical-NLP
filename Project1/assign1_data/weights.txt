@@ -1,0 +1,6 @@
+P(f|e)	-0.32
+lex(f|e)	-1.2
+P(e|f)	-0.8
+lex(e|f)	-0.1
+bias	-0.8
+wordBonus	0.4
